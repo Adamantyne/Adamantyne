@@ -21,7 +21,7 @@
 <hr>
 <h3> Sobre mim: </h3>
   <a href="https://wakatime.com/@8f86e633-e2e4-44e9-85eb-b60553df5a5b"><img src="https://wakatime.com/badge/user/8f86e633-e2e4-44e9-85eb-b60553df5a5b.svg" alt="Total time coded since Jan 17 2022" /></a>
-  <p>⚡- Tenho 21 anos, nascido e criado em Goiás e sempre fui apaixonado por jogos digitais. Na busca de entender como os jogos funcionavam,  tive meu primeiro contato com a programação, e foi amor à primeira vista! Fiquei fascinado com todas as possibilidades e universos inteiros que podemos construir com simples sequências de código (as vezes nem tão simples).  </p>
+  <p>⚡- Tenho 22 anos, nascido e criado em Goiás e sempre fui apaixonado por jogos digitais. Na busca de entender como os jogos funcionavam,  tive meu primeiro contato com a programação, e foi amor à primeira vista! Fiquei fascinado com todas as possibilidades e universos inteiros que podemos construir com simples sequências de código (as vezes nem tão simples).  </p>
   <p>🌱- Atualmente estou cursando programação full stack na Driven e desenvolvimento de jogos digitais pela infnet. Estou ansioso para ter cada vez mais oportunidades de estar aprendendo sobre o maravilhoso mundo da programação!</p>
 <br>
 <hr>
