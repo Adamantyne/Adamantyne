@@ -1,8 +1,8 @@
 <h1> Olá!! Sou Guilherme Alves e seja bem-vindo(a) ao meu perfil 😄 </h1>
 <div align="center">
   <a href="https://github.com/Adamantyne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamantyne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamantyne&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamantyne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center" style="display: flex">
 <br>
@@ -22,10 +22,11 @@
 <h3> Sobre mim: </h3>
   <a href="https://wakatime.com/@8f86e633-e2e4-44e9-85eb-b60553df5a5b"><img src="https://wakatime.com/badge/user/8f86e633-e2e4-44e9-85eb-b60553df5a5b.svg" alt="Total time coded since Jan 17 2022" /></a>
   <p>⚡- Tenho 22 anos, nascido e criado em Goiás e sempre fui apaixonado por jogos digitais. Na busca de entender como os jogos funcionavam,  tive meu primeiro contato com a programação, e foi amor à primeira vista! Fiquei fascinado com todas as possibilidades e universos inteiros que podemos construir com simples sequências de código (as vezes nem tão simples).  </p>
+  <p>🚀- Na busca de tecnologias cada vez mais dinâmicas, me interessei pelo desenvolvimento web e me dediquei 100% ao estudo dessa área. </p>
   <p>🌱- Atualmente estou cursando programação full stack na Driven e desenvolvimento de jogos digitais pela infnet. Estou ansioso para ter cada vez mais oportunidades de estar aprendendo sobre o maravilhoso mundo da programação!</p>
 <br>
 <hr>
 
 <h3> Contatos: </h3>
-<a href="https://www.instagram.com/zadamantyne/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-alves-686977236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p>email: guialvest@gmail.com</p>
+<p>linkedin: <a href="https://www.linkedin.com/in/guilherme-alves-686977236/" target="_blank"> linkedin.com/in/guilherme-alves-teixeira </a> </p>
